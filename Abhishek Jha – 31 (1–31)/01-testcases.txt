@@ -1,0 +1,300 @@
+Question 1: Check Whether a Number Is Even or Odd
+Test Case 1
+
+Input: 8
+
+Expected Output: Even
+
+Test Case 2
+
+Input: 7
+
+Expected Output: Odd
+
+Test Case 3
+
+Input: 0
+
+Expected Output: Even
+
+Test Case 4
+
+Input: -5
+
+Expected Output: Odd
+
+Test Case 5
+
+Input: 2
+
+Expected Output: Even
+
+Test Case 6
+
+Input: 1
+
+Expected Output: Odd
+
+Test Case 7
+
+Input: -4
+
+Expected Output: Even
+
+Test Case 8
+
+Input: -9
+
+Expected Output: Odd
+
+Test Case 9
+
+Input: 100
+
+Expected Output: Even
+
+Test Case 10
+
+Input: 999
+
+Expected Output: Odd
+
+Test Case 11
+
+Input: -100
+
+Expected Output: Even
+
+Test Case 12
+
+Input: -101
+
+Expected Output: Odd
+
+Test Case 13
+
+Input: 50
+
+Expected Output: Even
+
+Test Case 14
+
+Input: 51
+
+Expected Output: Odd
+
+Test Case 15
+
+Input: 200
+
+Expected Output: Even
+
+Test Case 16
+
+Input: 201
+
+Expected Output: Odd
+
+Test Case 17
+
+Input: 16
+
+Expected Output: Even
+
+Test Case 18
+
+Input: 23
+
+Expected Output: Odd
+
+Test Case 19
+
+Input: 64
+
+Expected Output: Even
+
+Test Case 20
+
+Input: 75
+
+Expected Output: Odd
+
+Test Case 21
+
+Input: -2
+
+Expected Output: Even
+
+Test Case 22
+
+Input: -3
+
+Expected Output: Odd
+
+Test Case 23
+
+Input: -16
+
+Expected Output: Even
+
+Test Case 24
+
+Input: -17
+
+Expected Output: Odd
+
+Test Case 25
+
+Input: -50
+
+Expected Output: Even
+
+Test Case 26
+
+Input: -51
+
+Expected Output: Odd
+
+Test Case 27
+
+Input: 1000
+
+Expected Output: Even
+
+Test Case 28
+
+Input: 1001
+
+Expected Output: Odd
+
+Test Case 29
+
+Input: 2024
+
+Expected Output: Even
+
+Test Case 30
+
+Input: 2025
+
+Expected Output: Odd
+
+Test Case 31
+
+Input: 123456
+
+Expected Output: Even
+
+Test Case 32
+
+Input: 123457
+
+Expected Output: Odd
+
+Test Case 33
+
+Input: 999998
+
+Expected Output: Even
+
+Test Case 34
+
+Input: 999999
+
+Expected Output: Odd
+
+Test Case 35
+
+Input: 1000000
+
+Expected Output: Even
+
+Test Case 36
+
+Input: 1000001
+
+Expected Output: Odd
+
+Test Case 37
+
+Input: 214
+
+Expected Output: Even
+
+Test Case 38
+
+Input: 215
+
+Expected Output: Odd
+
+Test Case 39
+
+Input: 8888
+
+Expected Output: Even
+
+Test Case 40
+
+Input: 8889
+
+Expected Output: Odd
+
+Test Case 41
+
+Input: -1000
+
+Expected Output: Even
+
+Test Case 42
+
+Input: -1001
+
+Expected Output: Odd
+
+Test Case 43
+
+Input: -2468
+
+Expected Output: Even
+
+Test Case 44
+
+Input: -2469
+
+Expected Output: Odd
+
+Test Case 45
+
+Input: 10000000
+
+Expected Output: Even
+
+Test Case 46
+
+Input: 10000001
+
+Expected Output: Odd
+
+Test Case 47
+
+Input: 2147483646
+
+Expected Output: Even
+
+Test Case 48
+
+Input: 2147483647
+
+Expected Output: Odd
+
+Test Case 49
+
+Input: -2147483648
+
+Expected Output: Even
+
+Test Case 50
+
+Input: -2147483647
+
+Expected Output: Odd
