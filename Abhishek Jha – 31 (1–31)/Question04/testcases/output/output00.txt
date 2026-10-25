@@ -1,0 +1,143 @@
+Average: 80
+Pass
+
+Average: 70
+Fail
+
+Invalid marks
+
+Average: 40
+Pass
+
+Average: 69
+Fail
+
+Average: 0
+Fail
+
+Average: 100
+Pass
+
+Average: 50
+Pass
+
+Average: 59
+Fail
+
+Average: 66
+Fail
+
+Invalid marks
+
+Average: 50
+Pass
+
+Average: 66
+Fail
+
+Average: 60
+Pass
+
+Average: 68
+Fail
+
+Invalid marks
+
+Average: 99
+Pass
+
+Average: 39
+Fail
+
+Average: 41
+Pass
+
+Average: 26
+Fail
+
+Average: 66
+Fail
+
+Average: 75
+Pass
+
+Average: 60
+Fail
+
+Average: 85
+Pass
+
+Average: 30
+Fail
+
+Invalid marks
+
+Average: 55
+Pass
+
+Average: 45
+Fail
+
+Average: 73
+Pass
+
+Average: 66
+Fail
+
+Average: 2
+Fail
+
+Average: 59
+Pass
+
+Average: 99
+Pass
+
+Average: 46
+Fail
+
+Average: 70
+Pass
+
+Average: 46
+Fail
+
+Invalid marks
+
+Average: 80
+Pass
+
+Average: 79
+Fail
+
+Average: 39
+Fail
+
+Average: 65
+Pass
+
+Average: 20
+Fail
+
+Average: 95
+Pass
+
+Invalid marks
+
+Average: 60
+Pass
+
+Average: 66
+Fail
+
+Average: 45
+Pass
+
+Average: 46
+Fail
+
+Average: 77
+Pass
+
+Average: 100
+Pass
